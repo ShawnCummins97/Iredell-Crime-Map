@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.94673999999999,
+                    35.9275109
+                ]
+            },
+            "properties": {
+                "Date": "10/31/2023 15:48",
+                "Primary Offense": "Case #: 2304619\nPrimary Offense: CONTROLLED SUBSTANCE - POSSESSION CRACK COCAINE",
+                "Address1": "300-BLK WILSON FARM RD/HAMS GROVE RD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9470338,
+                    35.9661222
+                ]
+            },
+            "properties": {
+                "Date": "10/31/2023 16:38",
+                "Primary Offense": "Case #: 2304622\nPrimary Offense: FORGERY - USING / UTTERING",
+                "Address1": "4800-BLK WILKESBORO HWY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9571335,
+                    35.9662222
+                ]
+            },
+            "properties": {
+                "Date": "11/3/2023 16:38",
+                "Primary Offense": "TEST",
+                "Address1": "TEST"
+            }
+        }
+    ]
+}
